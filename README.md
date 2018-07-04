@@ -1,10 +1,10 @@
 # Official website for tinydog, llc.
 
-There isn't much to see here yet. We plan to use vuepress to build it out.
+There isn't much to see here yet. We plan to use [VuePress](https://vuepress.vuejs.org/) to build it out.
 
 ## Dependencies
 
-* Node
+* [Node](https://nodejs.org/)
 
 **Setup**
 
