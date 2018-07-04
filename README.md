@@ -16,6 +16,12 @@ To run the project in dev mode, open it from a terminal and enter ```npm run sit
 
 Once running you can visit the site by going to [http://localhost:8081/](http://localhost:8081/).
 
+## Production Build
+
+To create a production build, open the project from a terminal and enter ```npm run site:build```.
+
+Once the script has completed, you'll find the static site in the ```./site/.vuepress/dist``` directory.
+
 ## Add a Page
 
 To add a page, create a markdown file somewhere within the site directory.
